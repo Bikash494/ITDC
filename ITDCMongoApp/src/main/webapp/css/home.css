@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+.page{
+		margin:5px 500px 5px 450px;
+		margin-rignt: 500px;
+		padding :30px 10px 30px 10px;
+		background-color: silver;
+		
+	}
+	#btn1{
+		padding : 10px 92px 10px 100px;
+		margin-top:3px;
+		margin-left:10px;
+		background-color: gray;
+		border: 5px green solid;
+		color: white;
+		
+		
+	}
+	#btn1:hover {
+  		padding : 10px 92px 10px 100px;
+		margin-top:3px;
+		margin-left:10px;
+		background-color: green;
+		border: 5px gray solid;
+		color: white;
+	}
+	#btn2:hover {
+  		padding : 10px 100px 10px 100px;
+		margin-top:3px;
+		margin-left:10px;
+		background-color: green;
+		border: 5px gray solid;
+		color: white;
+	}
+	
+	#btn2{
+		padding : 10px 100px 10px 100px;
+		margin-top:3px;
+		margin-left:10px;
+		background-color: gray;
+		border: 5px green solid;
+		color: white;
+	}
+	h1{
+		text-align: center;
+		color:green;
+		background-color: white;
+		padding-bottom: 10px;
+		padding-top: 5px;
+	}
+	
+	body{
+		background-image: url("image/home.jpg");
+		background-size: 1300px 1200px;
+	}

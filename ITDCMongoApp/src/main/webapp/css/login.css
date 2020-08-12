@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+	header
+	{
+		background-color: blue;
+		text-shadow: black;
+		size: 100%;
+		background-position: center;
+		padding-top: 20px;
+		padding-bottom: 10px;
+		
+	}
+	header > h1{
+		color:white;
+		font-size: 50px;
+		text-align: center;
+		align-items: center;
+		font-family:Asap,sams-serif;
+		margin-bottom:10;
+	}
+	.wrapper{
+		background-size:     cover;                     
+    	background-repeat:   no-repeat;
+    	background-position: center center; 
+    	padding-bottom: 500px; 
+	}
+	
+	.formclass{
+		background-color: #ccffff;
+		border-radius: 20px;
+		opacity: 80%;
+		margin:0px 450px 20px 450px;
+		padding:20px 70px 50px ;
+		text-align: center;
+	}
+	.newuser{
+		padding: 5px;
+	}
+	
+	body{
+		background-image: url("image/home.jpg");
+		background-size: 1300px 1200px;
+	}

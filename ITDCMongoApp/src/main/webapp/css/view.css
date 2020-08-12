@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.wrapper{
+    background-color:  rgb(204, 255, 204);
+    margin: 100px 100px ;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border-radius: 35px;
+}
+
+body{
+		background-image: url("image/Thankyou.jpg");
+		background-size: 1300px 1200px;
+	}
